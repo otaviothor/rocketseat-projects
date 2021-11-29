@@ -1,4 +1,4 @@
-<h1 style="text-align:center">Repositório de projetos desenvolvidos através da Rocketseat</h1>
+# Repositório de projetos desenvolvidos através da Rocketseat
 
 ## 💻 Projetos
 
