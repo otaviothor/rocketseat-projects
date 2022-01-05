@@ -18,4 +18,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito por [otávio silva](https://otaviothor.github.io/) 🙃
+Feito por [otávio silva](https://otaviosilva.dev/) 🙃
