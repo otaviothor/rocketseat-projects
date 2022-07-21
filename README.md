@@ -11,6 +11,12 @@
 - [UI Clone - Instagram](instagram-react-native)
 - [UI Clone - Nubank](nubank-react-native)
 - [Theme Switcher](theme-switcher-react)
+- ignite-lab-react (plataforma para hostear aulas desenvolvido com React)
+- redux-react (estudos sobre gerenciamento de estado com Redux desenvolvido com React)
+- pipefy-react (plataforma com interface inspirada no Pipefy desenvolvido com React)
+- api-solid-node (estudos sobre os conceitos do SOLID desenvolvido com React)
+- api-authentication-node (api com autenticação utilizando JWT desenvolvido com React)
+- repolist-ionic-react (app mobile que lista todos os repositórios do GitHub de um usuário desenvolvido com Ionic e React)
 
 ## 📄 Licença
 
